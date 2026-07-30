@@ -10,7 +10,7 @@ thinking about recently installed apps
 
 TranslucentTB is the latest
 
-disabling it from the safe mode
+disabling it from safe mode
 
 it worked
 
