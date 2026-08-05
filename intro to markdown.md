@@ -1,0 +1,63 @@
+# This is a Title
+
+Markdown (.md) is a type of text files used to format plain text
+
+Mostly used by software developers to document their work
+
+It can do text formatting like **bold** and *italic* and ~~strikethrough~~ and others which I've demonstrated here all over this file
+
+**This is bold**
+
+*This is italic*
+
+~~This is strikethrough~~ (double ~ on each side)
+
+`This is code` (type its sign by pressing the ~ key)
+
+$This is math$ (it doesn't view the spaces that you typed)
+
+$x+5=10$
+
+$E=mc^2$
+
+---
+
+==This is highlighted== (Obsidian only)
+
+%%This is a comment%% (like comments in programming languages, Obsidian only)
+
+## This is another Title
+
+### This is another Title
+
+#### This is another Title
+
+Note that titles wrap on each other
+
+---
+
+- List element 1
+
+- List element 2
+
+- List element 3
+
+---
+
+1. Numbered list element
+
+2. Numbered list element
+
+3. Numbered list element
+
+---
+
+- [x] Task list element 1 (checked)
+
+- [ ] Task list element 2 (unchecked)
+
+- [ ] Task list element 3
+
+---
+
+> This is a quote
