@@ -1,11 +1,5 @@
 # This is a Title
 
-Markdown (.md) is a type of text files used to format plain text
-
-Mostly used by software developers to document their work
-
-It can do text formatting like **bold** and *italic* and ~~strikethrough~~ and others which I've demonstrated here all over this file
-
 **This is bold**
 
 *This is italic*
@@ -26,11 +20,11 @@ $E=mc^2$
 
 %%This is a comment%% (like comments in programming languages, Obsidian only)
 
-## This is another Title
+## This is a smaller Title
 
-### This is another Title
+### This is a smaller Title
 
-#### This is another Title
+#### This is smaller Title
 
 Note that titles wrap on each other
 
