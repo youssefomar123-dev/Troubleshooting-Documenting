@@ -8,7 +8,7 @@
 
 `This is code` (type its sign by pressing the ~ key)
 
-$This is math$ (it doesn't view the spaces that you typed)
+$This is math$ (it ignores the spaces that you typed)
 
 $x+5=10$
 
