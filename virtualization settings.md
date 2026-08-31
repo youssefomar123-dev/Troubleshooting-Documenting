@@ -14,7 +14,7 @@ Forgetting to check✅ UEFI in VM settings = fatal error before even getting to 
 
 Forgetting to choose Lubuntu instead of Ubuntu in VM settings (VirtualBox chose Ubuntu automatically) = kernel panic
 
-And make sure to give it enough VRAM because that gave me a fatal error too (my hardware had a dedicated GPU, so I was able to give the VM the whole integrated GPU)
+And make sure to give it enough video memory because that gave me a fatal error too (VirtualBox mostly allows you to max it to 128mb)
 
 ## Unlike Debian (headless)
 
@@ -22,6 +22,6 @@ It doesn't bother the UEFI option being unchecked
 
 And it's a base distro (not based on another), so either the user or VirtualBox can't mess up choosing which OS this is in VM settings
 
-And it didn't bother being given only 16mb out of 128mb of the integrated GPU
+And it didn't bother being given only 16mb of video memory
 
 And it's the most lightweight and the most stable OS I've ever used so far
